@@ -23,7 +23,7 @@ We grouped the wallets into ranges to understand the spread of creditworthiness 
 
 ### 📊 Histogram of Scores
 
-_(Use the following Python code to generate the histogram if desired)_
+_(Use the following Python code to generate the histogram )
 
 ```python
 import pandas as pd
