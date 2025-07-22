@@ -1,0 +1,42 @@
+[
+  {
+    "user": "0xabc1",
+    "action": "deposit",
+    "amount": "1000"
+  },
+  {
+    "user": "0xabc1",
+    "action": "borrow",
+    "amount": "500"
+  },
+  {
+    "user": "0xabc1",
+    "action": "repay",
+    "amount": "200"
+  },
+  {
+    "user": "0xabc2",
+    "action": "deposit",
+    "amount": "300"
+  },
+  {
+    "user": "0xabc2",
+    "action": "liquidationcall",
+    "amount": "0"
+  },
+  {
+    "user": "0xabc3",
+    "action": "deposit",
+    "amount": "700"
+  },
+  {
+    "user": "0xabc3",
+    "action": "borrow",
+    "amount": "300"
+  },
+  {
+    "user": "0xabc3",
+    "action": "repay",
+    "amount": "300"
+  }
+]
